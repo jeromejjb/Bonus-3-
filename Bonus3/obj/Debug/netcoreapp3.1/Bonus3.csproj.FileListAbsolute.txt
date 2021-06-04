@@ -1,0 +1,13 @@
+C:\Users\Jerome\Desktop\Bonus3\Bonus3\bin\Debug\netcoreapp3.1\Bonus3.exe
+C:\Users\Jerome\Desktop\Bonus3\Bonus3\bin\Debug\netcoreapp3.1\Bonus3.deps.json
+C:\Users\Jerome\Desktop\Bonus3\Bonus3\bin\Debug\netcoreapp3.1\Bonus3.runtimeconfig.json
+C:\Users\Jerome\Desktop\Bonus3\Bonus3\bin\Debug\netcoreapp3.1\Bonus3.runtimeconfig.dev.json
+C:\Users\Jerome\Desktop\Bonus3\Bonus3\bin\Debug\netcoreapp3.1\Bonus3.dll
+C:\Users\Jerome\Desktop\Bonus3\Bonus3\bin\Debug\netcoreapp3.1\Bonus3.pdb
+C:\Users\Jerome\Desktop\Bonus3\Bonus3\obj\Debug\netcoreapp3.1\Bonus3.csprojAssemblyReference.cache
+C:\Users\Jerome\Desktop\Bonus3\Bonus3\obj\Debug\netcoreapp3.1\Bonus3.AssemblyInfoInputs.cache
+C:\Users\Jerome\Desktop\Bonus3\Bonus3\obj\Debug\netcoreapp3.1\Bonus3.AssemblyInfo.cs
+C:\Users\Jerome\Desktop\Bonus3\Bonus3\obj\Debug\netcoreapp3.1\Bonus3.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\Desktop\Bonus3\Bonus3\obj\Debug\netcoreapp3.1\Bonus3.dll
+C:\Users\Jerome\Desktop\Bonus3\Bonus3\obj\Debug\netcoreapp3.1\Bonus3.pdb
+C:\Users\Jerome\Desktop\Bonus3\Bonus3\obj\Debug\netcoreapp3.1\Bonus3.genruntimeconfig.cache
